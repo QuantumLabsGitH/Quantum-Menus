@@ -1,712 +1,1 @@
-<roblox!‰ÿ
-
-     µ           META$   "       ð      ExplicitAutoJoints   trueINST#   "       ð    	   BoolValue  °        ¦´INST          õ      Folder   P  bÎINST$   J       ÿ      Frame   à>
-6\INST    ,       ý    
-   ImageButton   P
-INST    '       ð   
-   ImageLabel    P HþINSTC   Ø       ÿ    
-   LocalScript 0  ù
- À
-
-INST          ð
-   	   ScreenGui        INST!          ð       ScrollingFrame       ºINST(   K       ÿ   
-   TextButton 
-  Ðz
-
 
-
-
-
-
-
-BINST$   F       @	    ÏTextLabel   ÀP>j4INST;   ¥       ÿ
-      UICorner $  [ò 
-
-
-
- €INST   '       ù
-   
-   UIGradient   P FâINST          @    ðUIGridLayout       ˆINST#   !       ð
-      UIListLayout          :ÒINST           ð   	   UIPadding          Š„INST%   1       ý      UISizeConstraint   P INST5          ÿ      UIStroke   @ð
-B
-
-
-
-
-
-
-
-
-*PROP)   (       ð
-       AttributesSerialize €        PROP"   -       ð       Capabilities! 
- P     PROP!          ð       DefinesCapabilities   PROP>   <       ð-       Name   isMilitaryTime
-   IsMinimized
-   SFXEnabledPROP#   .       ð     
-   SourceAssetId 
- P  PROP          Ð       Tags
- €        PROP          ð       Value  PROP)   (       ð      AttributesSerialize          PROP    -       þ       Capabilities!  P     PROP!          ð      DefinesCapabilities   PROP/   .       Ð      Name	 ðTabs    Scripts
-   CompositorPROP!   .       þ   
-   SourceAssetId  P  PROP          À      Tags          PROP          à      Active °           PROP1   „       ÷    
-   AnchorPoint
-~  	
-  
-	+ 	
-  P     PROP(   T       ÿ      AttributesSerialize  P     PROP    #       ô       AutoLocalize PPROP"   N       ÿ   
-   AutomaticSize  P     PROP`   Á       õ
-      BackgroundColor3|| U~|éé  *Gé %êê ? Hê8  E8 E8 EFê~~o V~~T *K # P   LPROP8   W       ö      BackgroundTransparency~~ (~  €
-   P     PROPe   ½       ð      BorderColor3  %{{
- Q   ±±   
- #²´  !||   #QQ	  
- !RR  
-8 #©©    P   ª¬PROP   K       ÿ   
-   BorderMode  P     PROP$   P       ÿ
-      BorderSizePixel  P    PROP!   …       ÿ       Capabilities!  WP     PROP(   '       ð	      ClipsDescendants °          PROP+   *       ð      DefinesCapabilities °           PROP!           ð   	   Draggable °           PROP    #       ô       Interactable PPROP    L       ÿ   
-   LayoutOrder  P     PROPœ   Ï       ò      Name	   MainFrame    SideBar
-   Butto €   Titl  3 AboutMenu( aInsideB B pettings   G s   H ?Mod  0ain8 
-W °   CFRAME° ÐinimizeButtonPROP*   R       ÿ      NextSelectionDown  * P     PROP*   R       ÿ      NextSelectionLeft  * P     PROP+   S       ÿ
-      NextSelectionRight  * P     PROP(   P       ÿ
-      NextSelectionUp  * P     PROPŽ   ñ       ÿt      Position ~{ |ysyzyzysz~ ú õã	ãl Y $Œ“$“Ý‚? × VÞ[4Þº[hŒ~vyzy|y}y|y|~{ ´²xx;xvx˜{;e6 ÔÔÖÔ…Ât— ‡šúþ²–Äþ˜ø²@/   VP     PROP.   V       ÿ      RootLocalizationTable  * P     PROP   I       ÿ      Rotation  P     PROP"   !       ð   
-   Selectable °           PROP*   V       ÿ      SelectionBehaviorDown  P     PROP*   V       ÿ      SelectionBehaviorLeft  P     PROP+   W       ÿ      SelectionBehaviorRight  P     PROP(   T       ÿ      SelectionBehaviorUp  P     PROP&   %       ð       SelectionGroup °           PROP-   U       ÿ      SelectionImageObject  * P     PROP#   O       ÿ	      SelectionOrder  P     PROPl   í       è      Size   ~
- ) ÿ ‘ ¬ { ' “ Œ 
- T   ë Úddø¼¼¼|¼|¼¼^* 
- b  ð  \\:8<ä<H<¦<ä PROP#   O       ÿ	      SizeConstraint  P     PROP&   †       ÿ   
-   SourceAssetId  N PPROP   F       ÿ       Style  P     PROP   E       ï      Tags  P     PROP           ð       Visible     PROP   G       ÿ      ZIndex   PPROP          ð      ActivePROP    <       ÿ   
-   AnchorPoint
-  P     PROP'   0       ú      AttributesSerialize  P     PROP          ð      AutoButtonColorPROP          ð
-      AutoLocalizePROP!   *       ú   
-   AutomaticSize  P     PROP?   U       ð
-      BackgroundColor3~ C D   %~; <  » P¾¾¾¾¾PROP.   3       ð      BackgroundTransparency   P     PROP;   Q       ð       BorderColor3~ C D   %~; <  » P¾¾¾¾¾PROP   '       ú   
-   BorderMode  P     PROP$   ,       ð      BorderSizePixel  P     PROP!   =       ÿ       Capabilities!  P     PROP           ð      ClipsDescendants     PROP#   !       ð      DefinesCapabilities     PROP          ð   	   Draggable     PROP%   .       ú      HoverHapticEffect  P    PROP   '       ú   
-   HoverImage  P     PROPg   œ       þ      Image   rbxassetid://17698044313 ®4456045412 ¼5928895003T ü 78388764182737  9405925508PROP;   P       ð   
-   ImageColor3~ s t   %~k l    P     PROP$   @       ÿ
-      ImageRectOffset
-  P     PROP#   >       ð   
-   ImageRectSize  
-P     PROP%   .       ú      ImageTransparency  P     PROP          ð
-      InteractablePROP    (       ð   
-   LayoutOrder  P
-PROP          ð      Modal     PROPK   X       ò      Name   SettingsButton
-   Home ’
-   About   7Mod+  ExitButtonPROP%   .       ú      NextSelectionDown  P    PROP%   .       ú      NextSelectionLeft  P    PROP&   /       ú
-      NextSelectionRight  P    PROP#   ,       ú
-      NextSelectionUp  P    PROPE   a       ÿ+      Position zzxyzRGG\R#®®™#ØšØ|y~}|ÄXp¶Ä½íG[½N$ÜN  P     PROP%   .       ú      PressHapticEffect  P    PROP<   A       ö#      PressedImage   rbxassetid://17698044313  P     PROP    )       ú       ResampleMode  P     PROP)   2       ú      RootLocalizationTable  P    PROP   %       ú      Rotation  P     PROP   &       ú   	   ScaleType  P     PROP          ð	   
-   SelectablePROP          ð       Selected     PROP)   2       ú      SelectionBehaviorDown  P     PROP)   2       ú      SelectionBehaviorLeft  P     PROP*   3       ú      SelectionBehaviorRight  P     PROP'   0       ú      SelectionBehaviorUp  P     PROP          ð
-      SelectionGroup     PROP(   1       ú      SelectionImageObject  P    PROP#   +       ð       SelectionOrder  P     PROP   ]       ï      Size   #Z 
-; PXJbXXPROP"   +       ú	      SizeConstraint  P     PROP    d       ÿ   
-   SliceCenter  7P     PROP"   '       ð   
-   SliceScale   P     PROP"   >       ÿ   
-   SourceAssetId  PPROP   "       ú       Style  P     PROP   !       ê      Tags  P     PROP+   a       ð      TileSize        P     PROP          ð       VisiblePROP   #       à      ZIndex  PPROP          ð      Active    PROP%   4       ú	   
-   AnchorPoint
-  ~   P     PROP'   ,       ö      AttributesSerialize  P     PROP          ð
-      AutoLocalizePROP!   &       ö   
-   AutomaticSize  P     PROP,   I       ÷      BackgroundColor3   P     PROP1   /       ð       BackgroundTransparency            PROP"   E       ð      BorderColor3  P     PROP   #       ö   
-   BorderMode  P     PROP#   (       ö
-      BorderSizePixel  P     PROP!   5       ÿ       Capabilities!   P     PROP          ð      ClipsDescendants    PROP"           ð      DefinesCapabilities    PROP          ð    	   Draggable    PROPD   x       ÿ      Image   rbxassetid://144745494  4 Ÿ3833690616 P45494PROP'   D       ÷
-   
-   ImageColor3   P     PROP$   8       ÿ
-      ImageRectOffset
-   P     PROP#   6       ð   
-   ImageRectSize  P     PROP,   *       ð      ImageTransparency~~}~  3   3   4 PROP          ð
-      Interactable   PROP   $       ö   
-   LayoutOrder  P     PROP1   6       @    åName   Depth	 ð
-   ImageLabel   DepthPROP%   *       ö      NextSelectionDown  P    PROP%   *       ö      NextSelectionLeft  P    PROP&   +       ö
-      NextSelectionRight  P    PROP#   (       ö
-      NextSelectionUp  P    PROP=   Q       ÿ#      Position yg~jG	J®Ýþ»’wv~z²´RÁÖ³‡°
-   P     PROP    %       ö       ResampleMode  P    PROP)   .       ö      RootLocalizationTable  P    PROP   !       ð      Rotation  P     PROP   "       ö   	   ScaleType  P    PROP          ð   
-   Selectable    PROP)   .       ö      SelectionBehaviorDown  P     PROP)   .       ö      SelectionBehaviorLeft  P     PROP*   /       ö      SelectionBehaviorRight  P     PROP'   ,       ö      SelectionBehaviorUp  P     PROP          ð      SelectionGroup    PROP(   -       ö      SelectionImageObject  P    PROP"   '       ö	      SelectionOrder  P     PROP>   M       @    ÷Size     „„ ö˜b~~ ÿ/ ÿjÖ üª>  G  P  PROP"   '       ö	      SizeConstraint  P     PROP    T       ÿ   
-   SliceCenter  'P     PROP%   #       ð   
-   SliceScale            PROP"   6       ÿ   
-   SourceAssetId   P PROP          @    fTags  P     PROP'   Q       ÷       TileSize     P     PROP          ð       VisiblePROP          ö      ZIndex  P PROP(   Ü       ÿ      AttributesSerialize  §P     PROP"   •      ÿ       Capabilities!  ÿhP     PROP(   L       ÿ      DefinesCapabilities  P     PROP&   A       ó      Disabled  	  `    PROP!   Õ       ÿ       LinkedSource  §P     PROP¢         ô
-      Name   TweenOut  àIn   SwitchBt ÀMenusScript òideBarBlurController   Effect) 	) /FX
- 'Q ‚xit/OpenG .2 ’
-   Local#   RRadio @
-   ¨ oToggle” ÿ ÀFXDisable/En  P 
-B ?ESP  † ?ese Ø Disconn- ?FlyW  ¿
-   AntiAFK   ‚oNoclip   v ŸSpeedBoos— ÿoelepor  óFadeOut   Warning/MessageofDa±  † PDragg50GUIX  ‚* Å
- 25 =5  yüAnimation   Rotate9  \ ’Time/Date  Œ°HoverScriptPROP   Ó       ÿ   
-   RunContext  §P     PROPX   ó       ñ.   
-   ScriptGuid&   {D6C8EDE3-6BE6-4787-B63B-2271C84ECB5E}* ò1BC3220C-E6EC-43FD-AE29-6FD1A66F2D65* ò35EDB7E2-A48F-41D5-A798-6754CFF0023B* ó2F03E884-2A3B-4B3C-90B0-9FB9C127BE43* ò0574DA0-F030-481B-9DF8-BC06E2CB4F4C* ò531996FF-67FB-4973-BA4E-0627080C54A2* ð 3F68EB02-49F4-4B22-A25
-¢2FE4F4FFC9* ó241D0812-11B2-4BB7-8E1E-331D72CD66E* ó818EA4B7-C094-4A65-9106-3DCA525733D* ó4C55E06E-05CA-4741-BE18-5A25A1FC7AE¨ ò96FD8D63-97C3-4159-8A2D-69712023C4F8¨ òA5C4CB9C-6C89-4C4C-83C9-CA4412537274*  09¢ô
-B2-2A69-451E-85BE-ABAC5D3D55* óB58439EB-0DE8-4275-A351-B2992670C81¨ ð07DBDAED-09DA-4637-9ý³D439DB3AEBC¤ò2C2B2284-C4A6-43CF-B110-82343E6FBCC6¨ òC28E3CCB-3E35-4841-9B78-018620FD60DD* ô6A3A68B8-F373-4AE1-A459-41F4E77BC3T ó186D14BB-CA13-4C9B-AD72-5B67A413429ÊóEB5C7F03-19C5-4B4C-9652-D7F368D0785~ °33B0D315-32vóA8B-9A31-9A7928AEFB4Ò óA6098DD5-DC34-4E37-BAA7-473E576E8F3~ Ð9B84837C-6A56  óC-9585-614FF3120F8HôB8E29384-7604-4466-AF4D-072237FC92DzðBF3C542-48D4-4C1£ ò 07-2144FB4C78DAPÀ410B0F5C-04D"óB1-9D13-DF6C091502CLò9575502E-D211-4583-AF20-87F83B283F31T °9A6A0A57-D3ô02B2ÊãB-323255387C70* ó102B6B7-D64A-402HÂEF11F3110F67* ó21833DA7-E06C-4855-88AC-B1F353383E9ÂôF2BE31AA-75F9-4EED-8602-3EF944D7E1T ð56ACEC67-A49E-4915-AÆ³DEEA82B5DDD¤°B0448654-0CPóFB2-9B41-7712D2916F9&òFD936A89-985F-4332-80A7-7FA2A23BB68FÒ  5A|`11-621ó7A-8F87-EF3D8BC7873rôE587F9DE-8D91-4A7C-845D-428AD87B7AÒ ó1EBD023E-D86D-4440-9083-3CC49B16496zó0EB2DD84-E901-4C86-B140-C505F0BE886P@6D12e ð-D93F-42F7-A659-E]cB7BFA2ôóD68FEB92-453E-4EBE-9CFC-1F3F37026E7Ò ôC65366C3-BFD6-46F5-AC7E-7B363542B1C¨ ó2F788C6-A60E-4F42-815E-5B8A5FA8A4Bó0F05EA21-FA55-4F67-8B96-2307899ACAF”Ð32937F7A-4AADÊó7-9C5A-781D6E4E5A1Î°63638435-B7Ló8CD-924C-54E30293608rñ
-5A12DC72-01AE-4B62-ADA3-DDE180@ðAD928099-FBB9-4760-9 ³639CBFD0F9Ezð3F58F8C8-FB16-4A16-A130-9AA7DF831732}PROP
-4  Â      ó!      SourceÈ   local TweenService = game:Get (("  2")
-5 @Fram. ø script.Parent
-
-, ¡:Create(
-	- 1,
-	 ðInfo.new(2), -- hinder time
-	{BackgroundTranspX €cy  = 1}. ÿ goal tiers
-):Play()
-
-ÉÌ ?0.5Î óµ   -- Since thecó is inside SideBar, } !  ¤ - =Bar¦Â homeButton! S . °%.H! P rettings% 6 S% : _about7 
-A" 4 ?modj 
-M! ô
-
--- We go one level up from.‘ to reachTaother è sp AMain  Ù ×1¦mainMenu =, `.Tabs.   J s  - !  1   .   +    *     
-2-- }í sOò  object once
---Ó tdaitionS$ ¡= Instance¢" [")
---* . I2 ÿ
-"rbxassetid://10128766965"7  AVolub1  NS"ú– H ™ª õ ¡ Track wheÝ ; first loadCdoneG L t= true
- 0unc[ playˆ §()
-	if not? {then
-		P:Stop0 
- ³P	end
- x DshowO A up.Visibls° 	e  ufalse
-	R B ô ¦ Èª  « È ª PD§ "Å ¨ Â Q5Á¦ =Á §  À ÷$b.MouseÃø 1Click:Connect(³$)
-í+ 7 D!)
-c8 Ò )
-× 4 _),¡Start withÍ 9# vc  1out2ing@
-ç 6()
-b$×R	@Ligh*   W	 % S	ð	camera			= workspace.CurZ	C ¦—BLUR_SIZE` qVector2¸d10, 10«	LPART. C0.01{ ÀTRANSPARENCYl	s - 1e-7#  STC ò INTENSITY	= 0
-
-—}ð:SetAttribute("BlurInteÇ<y",A )É 5OBJÈ 
-‚ñDepthOfFieldEffect")
- fOBJ.Fag = 0 )Ne 
-	 â
-± b bocusDi  F F0.25e !In! aRadius  ¤Ü $= òþ ˆPartsLis$ #{}t C 
-OÐ s_ 
-: credGui  
-R  0.__u
-x  &=  
- €rayPlaneÇ rsèp @Pos,ñneNormal, rayOrigin
- ADireB 2)
-	d _
-; 1   80  v S " -l DPos
-! ñnum = n.x*v.x + n.y*v.y
- Tz*v.z)  de{  ) d) d) d) Pa = -W Ñ/ den
-
-	retur‡ P+ a *ê ß 2, aÀ 1eebuildÕ Ç
- ƒ	iÕ“b	for bÌ0, p’in pairs(+ ã@) doKÅable.insert(Z 8 )   ? j ,a uµ  '  “
-fÖ
-u, shapeÁ ¡  o . 0
-%
-  D")
-	( P.Size)  š3š’, 1, 1) *ƒ5 ƒAnchored5 ›S CanCollidY q= ƒCanTouch= ò> ƒMaterial EEnum g.Glass- ö	x= + 	â¶
-AmeshC
-(að == "Rectangle")¬
- L
- ' ª º
-lBlockMeshq* ! =è Œj
-	elseg OOvalb  ¹ 
-d zSpecialf    Tyµ ? {.Sphere  U ~ì
-	– ignoreInseª*cŒPntObj@ Œ‘
-	
-	while¦
- ' &= 
- 	0
-
-	¦
-( G and( õ:IsA("ScreenGui")y	œ B !.Iµ 1Gui¸ µ
-			break
-	k-  ×6nilV + "ndð 0newÂaetmetaÞB({
-	. ™ 
-@;
-		Þ  d   ¢   =   
-½ 7 = ç W;
-	},")
-¥zY[new][æ -
-	3$RuQ°"):BindToReç²Step("...",H ’Priority.è€.Value +,’
- O ñª5	 "*  lP0,0,0ß  .updateAllO @end)Ò í;newÑ, @Gui(ËB V  .n œ
-ó  ° .TdP31
-	`  áþã	GF àf „ F E  „   	  4 ‚  6 © ù H tcorner0›Ñ.AbsolutePosi>!+ £	 £
-
-4 51 => +Ë > 7-: $*2< Aray0^11
-
-Ýû 
-Û€ 0  i Ró:ViewportPointToRay(ƒ 4.X,Ž  .Y— œ!ay¥ < 1< 1<  wB  š:i| !: z  Vl	¸†  .¡Ÿ  BLookB£ * (0.05 -I
-
-
-Zd Ð	hK ¿0posR
-« U
-$0.  Ï.z	…  osªW 1W 1W 
-¯ 	!:Á`Space(×  5 1k s*	=Ì -  0‡ Pcente½i   + b1)/2
-
-ø 2OffD )  PScaleR [ /¿ˆÈN ó
-¸ [
- ö ü
-Ã
-Ê = tonumber(ø
-G
-)3 ä
-iT5, #–
-Ê b 3[i]©
-&sƒ  # ".cVL ,/’5)
-	P¸:BulkMoveToC
-d ”$ ’Mode.FireUpChanged¾&þ
-:
-[ ï w
-p:DestroÇP	selfÆt  + v s[!   0nil¸
-pã 1 \  	¯,q
-	, Œ  J $JÛÃ-buiGrad¦
-	 ‹S  Å, EasingStyl
- °, repeatCouÒ `revers½ deµiòS tÚ Z " =æ  3ë h @.Sinm  r ±.InOut, -1,ˆ
-R, 0.2HòThe properties tou # (Ÿƒ -1 51)
-	. 
-¸%, ¶ é õ?{
-	, @-0.8/ 1;
-}Fð ì
- Ñ M‹  Mi A °negative, i€ll loop $ƒfinitely–Ý N èÝ ,y  m,È !)
-9 þ$žNb€	G¾mç$ `:FindFÏÜAncestorWhichÌ
-§ PsfxEn. fH   	 H £Child("SFX+  z ñ
-‹ó1")
- ð87437544236708" µQyour 7 A ID 0
-  Rö "
-
-þ GÒ Ñ
-(ifú  ó 	T
-=[  lv —
-
-¢ÿÿÿÿÿÿ{$\
-*„UserInpu—$|
-$ ù®9    G	
- ß.»Pers.L4%
- m(  Guå ƒ:WaitForc. l3 qlithiumv5 ;Gui8 L& :   ñ( =F 
-:  B & 8 $B 
-4 <$2 zF  ¦!$
-4 y$ 8 Bexit  9á	! 
-; E' r%
- 7
-
-°
-90.5›
-Y.Quad ²
-5Outf#	€ fadeOutÓgìR£
-¢D	2gui%2Gui{
-$")1	 .§&~œ
-, 	Y , 
- ³
-V u ImageLabe±&orŽ  Z d  j _ OText^   ]   \ ‡UIStrokeŸ &ifq.  .N 5	" +æÓ  Ø !62æ”?guiŽ	4 ø
- ¡.CompletedªO	CI8B7guiI#K$Vl00.5˜ [®X<a  'Z/^ <\*.]‰¡OutMultipl¾s¦athread: _,R in i40 -·4  £uoroutin?Ñ ÷
--		 @ ;8 rresume(R   ± 2s, 	 Ã	—)@ait 0all Q"sh_0  Ä A Ç ü† Tstatu% ²) ~= "dead"õ r	task.w¾ * ˆ  AfN é oË ;· ÇEalse” U
-í¼ ‹  Û Ym,InÌ 
-¸	
-c P ^ U­? M 	Û» E
-œR 0’{Í,	})<)
-
-
-.°
-UBegan,' (iÌ
-,[
-pProcessZ ±:not À0 q.KeyCodÆ† $.Fs °  u¯  Ù ‘5)
-ÙØ½ '
-$ ¹	÷
-4 +
-ÿMÄ³ ©¼
- Ñr½ ½    ê Á ,Ýà
-¥â2Ï þ	Ÿl.[OµÔARotaà3= 0ïã '
-	 ?360—Ÿ@û  Û£=== UI ===ä Rmusic
-13sâM7 7")
-? .$
-2 =  q [OFF]"¿ u WSongsx RsongIí *
-	g1ü97289779099384",  Ÿ184534109  ®90438870918 î78972962223923  Ÿ904456595X  ï12724218550431! î40417211396382^ ï10593450654009! B 
-ó 71080595135622"… ]  2É3ç_radioö £2 ñ+#o" ÆS0.125 ALoopk* ß ø 	ƒ” ½ X ¶ @Statï ‹g& * S¡] ÆÎ
- xså.Us OFFQ  Œclist FX% p t+AyNexg  !*ifc õ2  	°[¥ ]#@dio:y  L 	 " +Ú8if  3> #K ×	5 4  æÉÞ  a  0 ` next A Q when6Cends˜UEnded	 ¹ê Ñ ,ì Click Togg%)==Ê1 G î ü š Ü	 [m<‡ 
-4hN]"
-		º  j }$9 	m·¢4 H . 4
-él ^%| ï–  ã. ¤Š ^ ³ Ç9 ¦'   Ú !ifd 4 }ƒ {000.5 v Ô P ` O>8U 
-S 
-i Z²(x !FoL¹
-  p.UbuntuŠ
-'
-
-  Z 1 Y  )
-	Cà
- ‡í¢
-é; 2 ã$ ßƒ“±¦l|‹ÿÿÿ½
-2sfxA¤
-' §_O
- É t	`defaulh=–UË˜Q  tŸ`based  ^  - ¨# OnH ·#Í;SFXÌ
-$  ¡j 
-4 …—  ² y$ ´ °‹$% 1  Š ³‹ ³ÿy$ò
-
-?esp
- ˆ
- er¨
-å  à` Å
-ä, ^ 3esp7Ú-Phighli; k 79`nameTaG '+ €fillColoj  ñ 3.fromRGB(112,  42558*qoutline+ 3  s43, 1713 d P
- ,Hž ¥(characterÊº 
-m6  ß5' '.FÀ Ì ! 
-Õ80.6" OÓ â '  L # ÄÙ  Œ,19² Ô
-äÖ
- B6Tagú/`yerDis     q  :ÎSìk!H
-H0  1 ¢ @nil m<billboar.;	7B  ‘- p.Adorneô- e 
- Ë2b= UDimÚ+r4, 0, 2:	H [Studsâ+,9O0, 31  °AlwaysOnTop/r	R ¡™ ê  V 
-u r  ä ' · 
-& 
-ê 1ê   )(  e ! =Z	ë .. "\n("	   ö  <")"F –3
-" … Ä¶  Ž *1 <
- º   œ
-ç8  ¨
-
-@ rYAlignmÖ.6. V  H.TopW —­
-<	 £
-?*QESP(eÛ, È   ø  B ,B"ESP+4 or ¹  £ 2  =$
-	já ±t ³E	if  ¼  Ý0 0U %		 ò0ÜÝ # ç 6tag‡  œ ø)
-!if   ñ =tagy ?tags  L D
-°7Ã6plr ÀC:Get
- #()‹ Ç - 4r.C¾
-§   ¨  zds[plr]<	E   Ò 31P –TC =Ž Ì K ä I  g—Ü . r.# b  Gg    €· =! 
-Î Ø  
-E¥ ˆ F
- v0 ±=ð#
-
-U[(AdÄa0(pld  « c*  t Ë (ifì…×`
-
-W…Removing
-ZÙ]Ê™ 	[
- ¿4   +‰9 P	 	N 	 L 1 XÁU ~!ÿyçäORresetã
-P6(.ë ®*s3 =  	‚
-k 1"#ifäçÕk   :BD@J–<sç Ævÿy¡vBdiscñJ{
-" 2 &Ø	^.ö:Kick("You have been d Oed."¦ÿ€t'?fly)¤  L& Ø$ á‹C7  •îlMÞÓ 3flyN3ion) ´bodyVelocitD:  MGyroâ¯FZ  f
- äQ3
-2FlyÉbG Ø	lk
- Mo î 
- ®1 q Æ phumanoiO .Ñ1H#  15 r0 
-@RootC l	h  üptformSt
- AAuto[# RM  
-	DW
-ÑBt £ - q.MaxFor3Nm¿math.huge, 
-  ßI V .| F 0ý uE	t ûBhrp
-  ¹   µ    ± PTorquÿ l T1e5,    1 P!&e4h !.D 3 
-’ 	º6 = ¡F ¸Fp8 
- F`moveDic¦   2camH@ãE ±@ §
- @Î 4 @   <if ò±:IsKeyDown(Ž*!W)  +K øC Y SY -Y 5AY 	RóbÊ³ DZ 	Z *D^ © c· £LeftControWJÍ-c _÷á.Magnitude > 0 œ gÌÕ6 Unit * 7S2$/4  
-ì   þXØ
- 
- @_ stopó èô¯ >
-¹Ž	 %:D¹	 ä S ¥AËÅD à
-! p  ± Sâ#  : À 5 K   " 	Å4‘ 
-”Œ  –M5hrp J "bv¼
-Ï 0OfC<OqG !bvF 6 bväDû„bAW   S gS gS  \þ  	 
-8	_0 7z 	¸
-ÇN$
-Ð š 
-‡—( ¯i 
-É/3ÿy$°*ñ¤r#O˜
-…5  2	À.PAsô
-+ À	Wv
-antiAFKEL w
-al êÇ
-5afk•D ð Í,…Anti-AFKÐ,E È«5AFKC  Û% M²
-  æ~
-r i
-ðûê  Ä "w 
-U
-2Ë<20,  )Bigger s¼K "60lar  +"f ,
-X  	
-Ç +Qorder÷
- Ø  y ) F Ã
-  
-
-J @= '	(  ‹ y p Œ   
-	 Õ { ‡\l`T   c 
-Š  H 
-
-- 
-% WOè00.0¿ ‚*	  š À !ZI‚Y ò ” ïv ’
-'  Ž
-( Œ	&  (Š
- *! 	]! Ž`CustomÐ+ Ö9
-K 
-‹ ‰# S $Oç&	
-   ¬  Ù0AFK®
-/ 0
- ® 
- ¯ ¸TA+¹ X 1Í- R)otf; 	 =M
-
-, .Û
- 
-	 ;QUse amgrŽ;Psimul[cì. KM€y 5 seco3/
-Blast/
-"	 ' =Ê®.HeartbeatC@stepa
-	L   + ! è	 A>= 5
- =˜   iQvM\ Ô=±hpVirtual!1"):¸ ‹"2(¤”!) 	 0Q  ¨	  bôÊ ÀŠ Ë
- 
- '†  „Ã/if  Û¶ ¯ b
-¡ Í
- 	à?
-ÿ{$?
-_noclil'0i	Óp
-¤F
-_
-	U ¾	*g ç ­Ò D
-AsetNþ"9 # ò³ e  h"O A  ÔÎà Ó 	_s_ý!&  •
-DescendaÕ" pØS¯PBBaseÚ s	 å^ ² t¶  ( › ì% 
-ï 
-Ì  <Q!	6 ( €  ƒ
-œ Ü6)
-
-e.2	ï Ý‘FlWsbF®DnewC6)
-	Ï (=  þ  \` °  }Þÿ$´ŸRspeedw‡ )émq 2µ? nePWalkS—  ð6 xboosted -65¤1set: B. d
-t c ü b ž aP  Q  f
- kN7T38 E
-z«» —< R _1
-Ý 
-U,or„Ò	 ´  
-E 
-5 ­ Û
-8 ªY |®| ž­@-- RK#  2`respawnª 9  g[ zG F_ ‰V ˆr Ò¯\¡
-}â
-ÿ{â
-@telešaF)Z ò
-IYG)!)ƒmõ=XA:Get‘ „v‚ Ò ù
-§O	 õeTý + t ’dE xd 2|1 `  |  y—‹ 	šÃ v$M[$
-
-j € þ  1hø9
-z í  ”L  —dXC1ÏT C
-
-D iì1Þ ktQ0tPo?*¯ ðQuse.T ] 1 ¿.
- EO¼
- Z F 5Hiticÿ R  ) kƒ  ;4W" 9 Ô  ¨ò ë v"‹ 9 K  q slb" o_bbabove ’y ‚C	hrp§  ðøDG< ß "+ fö 3  B.Y/2Õg0| ¢  
- o
-ÊÿyÐ„;AI"
-rl 4$b@ShowÑj4sag¤twarning˜ñproduced by QuantumLabs (do\Sredis¡r1)"
-k @ K   Ö1255û7 )1 
-êi70.3 
-ÙsRwaitSu(}õ6„!Tiqt* j	m  §# <¼3„ œð&t(
-
-~ !10ùq Š–  !IàP4 ouÐ(DU0InfBG!   "1.ü&1.Á1durJJ= 9 ½ ÃUª,#  T 0, {ô
-m*1}db
- ÔU$%À
-¥ l ¡  ZP3   â'à¿ 
-Û G	cÜ
-ðWARNING: USING CHEATS, EXPLOI
- óDOR UNAUTHORIZED MODIFICATIONS SUCH AS THIS MENU MAY RESULT IN A PERMANENT BAN. VIOL< ð	CAN LEAD TO ACCOUNT DELE ð	 WITHOUT APPEAL. YOU ARE[ ÀPONSIBLE FOR @R AC4 /S.|/ ßx	vÿ€B
--- ?i uMì0 of°	  D¸I{ []! c#$ ‘= "Welcom: ðLithium! We are glad !/1you\e#!"J `weekdaVµos.date("%AË¡monthDayYeš7# ‡B %d, %Y* tÊ
-O  ²:!, ±:	D   !\n 	Ä 
-k
-'td C“ Ï:	 ™>
-f B’xi`-<*40.3>$In©K9¦
-?UISí 'm
-'†
-Evò†  ¡Ddrag_K63  Àœ '15. ·{Ä
--   w
- , Y àBtUW @deltúwZUÃ-  :M&p×pÇ!x 1.X.Û ',  Ð=+e 0.X,¯R S ]Pos.Y1 Yj1 Y2 b£!('ÿ 2'):ÑN(n,RÃ  E), {Û =CnÊ }<… 
-D ¯VX?G.ÿv=ž_	 	3 ck	$ : `Touch)Pn 
-		Ð )  Y é  m '>  ‘
-	- v'†' ­ ŠO
-è  6.EnA
-­ K R  i ÙB
-UISx ‡ z
- yAMoveŸ>zy +f{4T­  Æ
-$f	LM ))–v ›p
-À&% r~s
-”+.5
-å  ž¸    ƒ)ÿ
-ct*ÿÿÿÿÿÿÿÿÿÿÿÿO
-  V
-
-8ÿ¶  F%Pñ
-m€
-4
-ã@m šŽFÛ0 ö Žo€ 
-  2 
-
- V (¶_@ 
-y‚=`Signal%‹u»‚ 20onnÁŽ²(?val©
-¨
- Ô0‚>¢2[print• ! c
- ¼a", val‰/)
-hÿÿ=Ø‘”ÿÿ³hÿÿÿÿÿÿÿÿÿÿÿÿ)²
-ZÿL%È/%!*?t  €;Passumµ& .x2Q is dÜ¢@ly uËœ8¦ 5S cinimiz7 ê+Nt).M 0 tYv. 	$ 
-À<"("„'. ^0Afadeø1 ŽÖ=   ¿€‰  úû	-- Fade children except ¤ óe' —¢82:GeÕR5renéB Éw W -7?‰ “8K ~ë m(	á*ß*4 ß* ×  ö  Þ*¾J /, (2â,Ž)´( 7¢Optionallyc-ºv% b­L«, but keep/<¨ä°¦+Å 5É #³  E*>Í­ %In®  ã °3»©0»0»6q+ i q
-š	Ö,C7Ka ¤
-{ +C
-
-ifõqÌþ
-b ¶‡
-úc  µ cliPŒëJ{  ¢0 ï' ò€Ù¸  ¡t6  ·5¢0   OÓ!õ/r‰€ 0`-U€djGë fr x´hpæ -  .¦]iE ILVtŠ !18  |Ê;%!c<¿,(  AW™  Ò˜ @H ÌL Ô7#("!isF=%a +  wÔy@ sup™?-s â=r event!|b±ÿÿ>ã–| º 
-S
-œŽÿ01Dat	 þ4Œ &2;Á nom§æ5*H® Ç5  %BûTžC6unow.day hÔ›  
-   mii3 .  miL¬E 0amp·¬0"AMƒ0if 5 a >= 12! @PM" Áœ  (  12€[ q B% 12˜1 =Î]  ) !12A {  FF St­   =0ng.mbbat("%sê6²d:%02d %s",
-c, day,R ,¯	,   2š==_ ¬~ F Å   
-¢$ó 2TñTÊN0  H2ÓC# ¾•} ó ž = G’@any/¡
-0 ik¹q .Î8 –C¸MR¸³.Åd† e m  t  874} ‘z> ! Pis24H]N g …SM $""Î<w!ge  p&ifC  dUn€%H:%M")  024-¼ U>5mat-]u   m¤B I½Ne M¯I p “ @02d: ü } 
-î À  *þ ipext(newQ"   Ou¢8ÛÌ 8	 P 
-­ Ý>î	5Outì k ã> &F ¤§ E < 5:> ¦ i ¸ W:N!æ þ U e‹% × A"24-ºFL"M+  ,12+ ^OKIQ Ž§i»1tlyE  ¶ - KUload
-„ 
-¨ 
-G4
-F  Ë™!asP-ç }& •9
-¢K(” 5ú"ifK… 6 šAo‡ Ã HÍ5  ~¦W* D Œž  *  NW, '=   X  ú  qB!(1iB5cheyXdB q smooth€G0acc.BeÌ %es—7)
-
-é
-ª
-—
-ª ¤  
-ü1…©YÛ t9uÀ @§ Û 
-? -?  #      	Ë ™™™EãXÃ “ °"úDž
-  
-U _LeaveU 
- :	û< ¬ 
-é è ç Pend)
-PROPh   –      ÿ   
-   SourceAssetId   “    ä   
-ä  É   
-É  u   
-u    ü üüPROP   Í       ï      Tags  §P     PROP"           ð      AttributesSerialize    PROP          ð       AutoLocalizePROP          ð      Capabilities!        PROP           ð      ClipToDeviceSafeAreaPROP          ð      DefinesCapabilities PROP          ð
-      DisplayOrder    PROP          ð       EnabledPROP          ð
-      Name
-   LithiumMenuPROP          ð       ResetOnSpawn PROP$   "       ð      RootLocalizationTable   PROP$   "       ð      SafeAreaCompatibility   PROP          ð
-      ScreenInsets   PROP$   "       ð      SelectionBehaviorDown    PROP$   "       ð      SelectionBehaviorLeft    PROP%   #       ð      SelectionBehaviorRight    PROP"           ð      SelectionBehaviorUp    PROP          ð	      SelectionGroup PROP           ð   
-   SourceAssetId       PROP          ð      Tags    PROP          ð      ZIndexBehavior   PROP          ð       ActivePROP          ð
-    
-   AnchorPoint
-        PROP"           ð       AttributesSerialize    PROP          ð        AutoLocalizePROP"           ð       AutomaticCanvasSize    PROP          ð
-    
-   AutomaticSize    PROP'   %       ð       BackgroundColor3         PROP%   #       ð       BackgroundTransparency   PROP"   !       ð       BorderColor3          PROP          ð    
-   BorderMode    PROP          ð
-       BorderSizePixel    PROPG   G       ñ(    
-   BottomImage/   rbxasset://textures/ui/Scroll/s  °-bottom.pngPROP!          ð       CanvasPosition
-        PROP$   #       ð    
-   CanvasSize Ð €           PROP          ð       Capabilities!        PROP          ð
-       ClipsDescendantsPROP          ð       DefinesCapabilities PROP          ð    	   Draggable PROP          ð
-       ElasticBehavior    PROP'   %       ð       HorizontalScrollBarInset    PROP          ð        InteractablePROP          ð	    
-   LayoutOrder    PROPD   D       ñ%       MidImage/   rbxasset://textures/ui/Scroll/s  °-middle.pngPROP!          ð       Name   ScrollingFramePROP           ð       NextSelectionDown   PROP           ð       NextSelectionLeft   PROP!          ð       NextSelectionRight   PROP          ð
-       NextSelectionUp   PROP#   !       ð       Position vó1]z]kü        PROP$   "       ð       RootLocalizationTable   PROP          ð       Rotation    PROP+   )       ð       ScrollBarImageColor3|ééê|ééê~PROP)   '       ð       ScrollBarImageTransparency    PROP!          ð       ScrollBarThickness   PROP!          ð       ScrollingDirection   PROP          ð
-       ScrollingEnabledPROP          ð    
-   SelectablePROP$   "       ð       SelectionBehaviorDown    PROP$   "       ð       SelectionBehaviorLeft    PROP%   #       ð       SelectionBehaviorRight    PROP"           ð       SelectionBehaviorUp    PROP          ð	       SelectionGroupPROP#   !       ð       SelectionImageObject   PROP          ð       SelectionOrder    PROP          À       Size  `„  œPROP          ð       SizeConstraint    PROP           ð    
-   SourceAssetId       PROP          ð       Tags    PROPA   A       ñ%       TopImage,   rbxasset://textures/ui/Scroll/s  €-top.pngPROP%   #       ð       VerticalScrollBarInset    PROP(   &       ð       VerticalScrollBarPosition    PROP          @     VisiblePROP          ð       ZIndex   PROP          ó      Active PPROP    |       ÿ   
-   AnchorPoint
-  OP     PROP(   P       ÿ      AttributesSerialize  P     PROP#   %       ó
-      AutoButtonColor PPROP    "       ó       AutoLocalize PPROP"   J       ÿ   
-   AutomaticSize  P     PROPK   µ       ÷
-      BackgroundColor3} '|Á é 7ÁéÂ ê3 4  '~   
- P    PROP7   S       ÷      BackgroundTransparency~ '}€ 'f  
- P    fPROP^   ±       ð      BorderColor3  {
- A   ±  	
- ´  |  Q  	
- R  	4 ©  
- P    ¬PROP   G       ÿ   
-   BorderMode  P     PROP$   L       ÿ
-      BorderSizePixel  P     PROP!   }       ÿ       Capabilities!  OP     PROP$   &       ó
-      ClipsDescendants  P     PROP'   )       ó      DefinesCapabilities  P     PROP          ó   	   Draggable  P     PROPL         @    ð&FontFace %   rbxasset://fonts/families/Ubuntu.json  0 ÿÿ*P     PROP*   N       ÿ      HoverHapticEffect  ' P     PROP    "       ó       Interactable PPROP$   H       ÿ   
-   LayoutOrder  
- PROP#   G       ø   
-   LineHeight   P     PROP0   X       ÿ      LocalizationMatchIdentifier  P     PROP2   Z       ÿ      LocalizationMatchedSourceText  P     PROP,   P       ÿ      MaxVisibleGraphemes   PPROP          ó       Modal  P     PROPª   Æ       Ð      Name	 ðBlur   Music   SFX òTime	   ESPButton   FastReset Ó   Disconnec  4 2Fly! Â   Anti-AFK | Roclip  C “SpeedBoosC  6 sTelepor  6 ÀToggleButtonPROP*   N       ÿ      NextSelectionDown  ' P     PROP*   N       ÿ      NextSelectionLeft  ' P     PROP+   O       ÿ
-      NextSelectionRight  ' P     PROP(   L       ÿ
-      NextSelectionUp  ' P     PROP%   M       ÿ
-      OpenTypeFeatures  P     PROP„   á       @    ð Position }zzz~} ÿP}zvt‹‹‹j„JJj„„Jvì\\\ÃžžÃžü|¨¨¨(˜ll(˜˜l_}}}}z~~z}z}} QQQQøuuø—ø—— =ããã¸¯¯¸¨¸¨¨ Òªªªjììj¦j¦¦   OP     PROP*   N       ÿ      PressHapticEffect  ' P     PROP          @    £RichText  P     PROP.   R       ÿ      RootLocalizationTable  ' P     PROP&   E       @    §Rotation  † ( h
-  P     PROP           ó   
-   Selectable P PROP          @    £Selected  P     PROP*   R       ÿ      SelectionBehaviorDown  P     PROP*   R       ÿ      SelectionBehaviorLeft  P     PROP+   S       ÿ      SelectionBehaviorRight  P     PROP(   P       ÿ      SelectionBehaviorUp  P     PROP"   $       ó	      SelectionGroup  P     PROP-   Q       ÿ      SelectionImageObject  ' P     PROP#   K       ÿ	      SelectionOrder  P     PROPN   Ý       ç      Size    ( 
- @
- n
- 	4     	 Süüüüä 	  ÐPPPPZZZZZZZZ PROP#   K       ÿ	      SizeConstraint  P     PROP&   ~       ÿ   
-   SourceAssetId  G PPROP   B       ÿ       Style  P     PROP   A       ï      Tags  P     PROP¡   ¦       ð      Text	   Blur [ON]
-   Music [OFF] 2SFX
- ð
-   12-Hour Format   ESP& ñ FastReset
-   Disconnec" 0Flyq ðAnti-AFK   Noclip+  SpeedBoost$ ÐTeleport    PROP/   ¯       ø   
-   TextColor3   3 3 4 P     PROP"   J       ÿ   
-   TextDirection  P     PROP"           ð   
-   TextScaled        PROP-   E       @    ãTextSize‚‚‚‚ƒ c‚ÀÀÀÀ@ /À  P     PROP%   µ       ÿ
-      TextStrokeColor3  ƒP     PROP/   S       ø      TextStrokeTransparency   P     PROP-   M       ø
-      TextTransparency} 3 4 P44444PROP!   I       ÿ       TextTruncate  P     PROP   !       ó   
-   TextWrapped PPROP'   K       ÿ	      TextXAlignment   PPROP'   K       ÿ	      TextYAlignment   PPROP          ó       Visible P PROP   C       ÿ      ZIndex   P
-PROP          ð	      Active            PROP    t       ÿ	   
-   AnchorPoint
-  GP     PROP(   L       ÿ	      AttributesSerialize  P     PROP#   !       ð	      AutoLocalizePROP"   F       ÿ	   
-   AutomaticSize  P     PROPT   ©       ô
-	      BackgroundColor3 D~  G	 
- 4H  / 	0 E*   F0 K+   P  L  PROP/   O       ÷	      BackgroundTransparency   
-P     PROP^   ¥       ð	      BorderColor3  {   ±   ²  |  Q    R  0 ©   P  ª  PROP   C       ÿ	   
-   BorderMode  P     PROP$   H       ÿ
-	      BorderSizePixel  P    PROP!   u       ÿ 	      Capabilities!  GP     PROP'   %       ð	      ClipsDescendants            PROP*   (       ð	      DefinesCapabilities            PROP          @	    ð Draggable            PROPS   Q      ð.	      FontFace %   rbxasset://fonts/families/Ubuntu.jsonô  0 0 ÿÍpô     PROP#   !       ð	      InteractablePROP    D       ÿ	   
-   LayoutOrder  P     PROP#   C       ÷	   
-   LineHeight   
-P     PROP0   T       ÿ	      LocalizationMatchIdentifier  P     PROP2   V       ÿ	      LocalizationMatchedSourceText  P     PROP/   L       ÿ	      MaxVisibleGraphemes  ÀPROPŒ   ©       ð	      Name    Version   Title ðWelcome   LogoText Settings#  [  + PLabel0 –Warning2 Ñ/MessageofDay1 ð	ime/Date   Company/TimePROP-   J       ÿ	      NextSelectionDown  À           PROP-   J       ÿ	      NextSelectionLeft  À           PROP.   K       ÿ
-	      NextSelectionRight  À           PROP+   H       ÿ
-	      NextSelectionUp  À           PROP%   I       ÿ
-	      OpenTypeFeatures  P     PROP~   Ñ       ÿd	      Position zx z| z~~hy~r pì p<Y0#“	 H HÄ°Ç;8B Ö Öth‚ö–z  || |x}x z{  È, ÷´ù‹ `Â  ·Á JèˆÜ ¢ø  ÎX rmPr Â   FP     PROP          ð	      RichText          PROP1   N       ÿ	      RootLocalizationTable  À           PROP   A       ÿ	      Rotation  P     PROP!          ð	   
-   Selectable            PROP*   N       ÿ	      SelectionBehaviorDown  P     PROP*   N       ÿ	      SelectionBehaviorLeft  P     PROP+   O       ÿ	      SelectionBehaviorRight  P     PROP(   L       ÿ	      SelectionBehaviorUp  P     PROP%   #       ð	      SelectionGroup            PROP0   M       ÿ	      SelectionImageObject  À           PROP#   G       ÿ		      SelectionOrder  P     PROP?   Í       ï	      Size   eÿ  ¨ø¼^ö¼^œ\l¨  À8:`B``˜:<Ž*8PROP#   G       ÿ		      SizeConstraint  P     PROP)   v       ÿ	   
-   SourceAssetId  @ÀPROP   =       ï	      Tags  P     PROPÅ  Ø      ð	      Text   V1.0.0
-   LithiumMenu" PInfo[* —o reopen ! õ after its been exited out, you must press F tB ñ!the whole menu.   Settings    Welcome   6.941– ð#-   produced by QuantumLabs (do not redistribute)ÍK ð
-ARNING: USING CHEATS, EXPLOI
- óDOR UNAUTHORIZED MODIFICATIONS SUCH AS THIS MENU MAY RESULT IN A PERMANENT BAN. VIOL< ð	CAN LEAD TO ACCOUNT DELE ð	 WITHOUT APPEAL. YOU ARE[ ÀPONSIBLE FOR @R AC4 ð
-S.   January 1, 12:00 AM?€12:00 AMPROP6   £       ÷	   
-   TextColor3   /  0 y0 i  P    PROP"   F       ÿ	   
-   TextDirection  P     PROP!          ð	   
-   TextScaled     PROP4   A       þ	      TextSizeƒ„‚ƒ‚‚‚‚ƒ‚ƒƒ `ÀðÀÀÀÀ À@   P     PROP0   ©       õ
-	      TextStrokeColor3  
-  0 >P     PROP/   O       ÷	      TextStrokeTransparency   
-P     PROP:   I       ô
-	      TextTransparency} D  }3 $  
-  À444444444  4PROP!   E       ÿ 	      TextTruncate  P     PROP"           ð	   
-   TextWrapped PROP*   G       ÿ		      TextXAlignment  ÀPROP*   G       ÿ		      TextYAlignment  ÀPROP          ð
-	       Visible PROP"   ?       ÿ	      ZIndex  ÀPROP(   ¬       ÿ
-      AttributesSerialize  wP     PROP"   5      ÿ 
-      Capabilities!  ÿP     PROP6   5      ÿ 
-      CornerRadius  è $ ( `2$($$$
-  P(((((PROP(   @       ÿ
-      DefinesCapabilities  
-P     PROP%   ½      ÿ
-
-      Name   UICorner ÿPornerPROP'   6      ÿ
-   
-   SourceAssetId  è 
-PPROP          ï
-      Tags  wP     PROP'   ,       ö
-      AttributesSerialize  P     PROP!   5       ÿ 
-      Capabilities!   P     PROPJ         ò
-      Color  ÀŸžž>…„„>  €? µ_#>rßÌ>¹Â:   1ž      @ ¨P?    PROP"           ð
-      DefinesCapabilities    PROP          ð
-       Enabled PROP&   E       ÿ
-      Name
-   UIGradient PdientPROP   /       ÿ
-      Offset
-   P     PROP#   !       ð
-      Rotation„„„„````        PROP"   6       ÿ
-   
-   SourceAssetId   P PROP          æ
-      Tags  P     PROP1   …       ò
-      Transparency  BÍÌL>
- $€?  <P>    PROP"           ð      AttributesSerialize    PROP          @    ðCapabilities!        PROP   $       ö   
-   CellPadding   P   PROP   !       ö      CellSize   P´   PPROP          ð      DefinesCapabilities PROP          ð
-   
-   FillDirection    PROP$   "       ð      FillDirectionMaxCells    PROP"           ð      HorizontalAlignment    PROP          Ð      Name
- ÀUIGridLayoutPROP          ð    	   SortOrder   PROP           ð   
-   SourceAssetId       PROP          ð	   
-   StartCorner    PROP          ð      Tags    PROP           ð      VerticalAlignment   PROP&   $       ð
-      AttributesSerialize        PROP    %       ö 
-      Capabilities!  P     PROP           ð
-      DefinesCapabilities  PROP          @
-    ð FillDirection       PROP&   $       ð
-      HorizontalAlignment        PROP!          ð
-      HorizontalFlex        PROP$   "       ð
-      ItemLineAlignment        PROP'   -       ÷
-      Name   UIListLayout PayoutPROP           ö
-       Padding  P   $(PROP          ð
-
-   	   SortOrder      PROP    &       @
-    ö SourceAssetId  P   PROP          ð
-      Tags        PROP$   "       ð
-      VerticalAlignment      PROP          ð
-      VerticalFlex        PROP          ð
-      Wraps PROP&   $       ð      AttributesSerialize        PROP    %       ö       Capabilities!  P     PROP           ð      DefinesCapabilities  PROP$   '       ô
-      Name	   UIPadding
- PddingPROP!   &       ö   
-   PaddingBottom  P    PROP   $       ö   
-   PaddingLeft  P   PROP    %       ö       PaddingRight  P   PROP   #       ö   
-   PaddingTop  P   PROP!   &       ö   
-   SourceAssetId  P   PROP          ð      Tags        PROP'   0       ú      AttributesSerialize  P     PROP!   =       ÿ       Capabilities!  P     PROP#   !       ð      DefinesCapabilities     PROP0   8       ð       MaxSize
-„ h     „ °h          PROP   8       ÿ       MinSize
-  P     PROP,   q       ÿ      Name   UISizeConstraint 8PraintPROP"   >       ÿ   
-   SourceAssetId  PPROP   !       ê      Tags  P     PROP,   „       ÿ
-      ApplyStrokeMode  =]  PPROP(   ˆ       ÿ      AttributesSerialize  SP     PROP!   í       ÿ       BorderOffset  ¿P     PROP)   ‰       ÿ      BorderStrokePosition  SP     PROP!   í       ÿ       Capabilities!  ¿P     PROP   R      ÿ      Color}}}} _Ù Ù /Ù bÜ ÚÜ QÚÜÚÚÚ ¯ÜÜÜÜ}}~~ }~II  /I _JJ  /Jl _õõ§ § /õ§ bøøª ¨ª ð ¨ª¨¨¨ª¨ª¨¨ªªªøªPROP(   7       ÿ      DefinesCapabilities  P     PROP   +       ÿ       Enabled PPROP!          ÿ       LineJoinMode  SP     PROP%   Q      ÿ
-      Name   UIStroke ÿ!PtrokePROP'   î       ÿ   
-   SourceAssetId  © PPROP$   …       @    ÿStrokeSizingMode  SP     PROP   y       ï      Tags  SP     PROP(   ~       ÿ   	   Thickness€  @    P     PROP<          ÿ
-      Transparency  ~ ~  ~  3 3 / 3 
-=4 4 P444 4PROP    {       ÿ      ZIndex  = PPRNT_  ­      ? µ  ÿÿ
-÷
-  ð	#2=D	 
-: 4 0  ‘%07<    
-p
-Sd‡ ñ
-  ­Ò
-	¨ Ÿ"]fgÖÿî         ð     
-	  
-  	     $. °#
->= JIN MX2 ±Sb  W ñ
-        &   %   L U ðJ   
-       *   )4   3>   =H   G  K®      ­_0  - :9> 
-	   =^  ] END     	       </roblox>
